@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sample Client
+ORG:Sample Production Company
+EMAIL;TYPE=INTERNET:billing@example.com
+END:VCARD
