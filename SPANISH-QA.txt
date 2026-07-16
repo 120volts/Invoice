@@ -1,4 +1,0 @@
-Potential remaining English UI strings found automatically:
-
-
-This scan is heuristic; technical JavaScript identifiers are expected to remain in English.
