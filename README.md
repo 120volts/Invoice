@@ -1,33 +1,21 @@
-# Invoice App v1.4
+# Financial Brain - Invoice Module
 
-## New in this version
+## Purpose
 
-- The invoice/project title is clearly editable in the form and by tapping the large title on an existing invoice.
-- A pencil mark beside the title makes the edit action visible.
-- Optional mileage tracking:
-  - Starting point, such as Home
-  - Work location
-  - One-way distance
-  - Number of trips
-  - Total business miles
-  - Business purpose
-  - Optional client billing rate
-- Mileage can remain a private tax/job record or be added as a billable invoice line.
-- Optional private job-expense records:
-  - Parking and tolls
-  - Airfare or transit
-  - Lodging
-  - Business meals
-  - Supplies and consumables
-  - Equipment rental
-  - Explanation note
+Production-grade invoice module for the Financial Brain ecosystem.
 
-Private job records are stored with the invoice but are not shown to the client or placed on the PDF unless they are deliberately added as invoice line items.
+### Vision
 
-## Important
+Build a standalone invoice application that later integrates with
+Clients, Projects, Purchases, Dashboard and Taxes without requiring
+rewrites.
 
-The invoice app is recording facts, not deciding whether every cost is deductible. Tax treatment will come later.
+## Core Principles
 
-## GitHub Pages
-
-Replace the current `index.html` in the repository root and refresh the published page.
+-   Production code only
+-   Version controlled
+-   Backward compatible
+-   Mobile-first capture
+-   Desktop-first review
+-   Reusable components
+-   Clean architecture
